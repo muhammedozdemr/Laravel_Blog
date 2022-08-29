@@ -62,3 +62,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Projede Kullandıklarım
+- Rol oluşturma ve bu rollere göre izinler atanabilir.
+- Sisteme kayıtlı olan kullanıcılar için yetkilendirme sistemi mevcut.
+- Sweetalert2 kullanıldı.
+- Seeder ile kullanıcı oluşturuldu.
+- Seeder ile kategori ve yazı içerikleri oluşturuldu.
+
+> php artisan db:seed
+
+ile seeder'ları çalıştırabilirsiniz.
